@@ -1,0 +1,68 @@
+{
+  "files" : [ {
+    "remoteURL" : "http://arduino.esp8266.com/stable/package_esp8266com_index.json",
+    "localPath" : "C:\\Users\\Basit\\Documents\\ArduinoData\\cache\\arduino.esp8266.com\\stable\\package_esp8266com_index.json",
+    "eTag" : "60ff395b-26f64",
+    "md5" : "MD5:90644b3a0b909421d918f72290494272",
+    "createdAt" : "2022-09-30T00:58:09.117",
+    "cacheControl" : {
+      "maxAge" : 600,
+      "mustRevalidate" : false,
+      "noStore" : false,
+      "noCache" : false
+    },
+    "expires" : "2022-09-30T01:08:09.117"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/libraries/library_index.json.gz",
+    "localPath" : "C:\\Users\\Basit\\Documents\\ArduinoData\\cache\\downloads.arduino.cc\\libraries\\library_index.json.gz",
+    "eTag" : "825f9d323adfe23d3c794308767c046f",
+    "md5" : "MD5:825f9d323adfe23d3c794308767c046f",
+    "createdAt" : "2022-09-29T23:57:34.448",
+    "cacheControl" : {
+      "maxAge" : 14400,
+      "mustRevalidate" : false,
+      "noStore" : false,
+      "noCache" : false
+    },
+    "expires" : "2022-09-30T03:57:34.448"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/libraries/library_index.json.sig",
+    "localPath" : "C:\\Users\\Basit\\Documents\\ArduinoData\\cache\\downloads.arduino.cc\\libraries\\library_index.json.sig",
+    "eTag" : "8cacde10125e6db30c27447e5d3cd369",
+    "md5" : "MD5:8cacde10125e6db30c27447e5d3cd369",
+    "createdAt" : "2022-09-29T23:57:35.292",
+    "cacheControl" : {
+      "maxAge" : 14400,
+      "mustRevalidate" : false,
+      "noStore" : false,
+      "noCache" : false
+    },
+    "expires" : "2022-09-30T03:57:35.292"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/packages/package_index.json.sig",
+    "localPath" : "C:\\Users\\Basit\\Documents\\ArduinoData\\cache\\downloads.arduino.cc\\packages\\package_index.json.sig",
+    "eTag" : "be1559777b4d11b52f5d919651688320",
+    "md5" : "MD5:be1559777b4d11b52f5d919651688320",
+    "createdAt" : "2022-09-30T00:58:10.394",
+    "cacheControl" : {
+      "maxAge" : 3600,
+      "mustRevalidate" : false,
+      "noStore" : false,
+      "noCache" : false
+    },
+    "expires" : "2022-09-30T01:58:10.394"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/packages/package_index.json",
+    "localPath" : "C:\\Users\\Basit\\Documents\\ArduinoData\\cache\\downloads.arduino.cc\\packages\\package_index.json",
+    "eTag" : "9b7334bb76c67e292229c17ab5d09562",
+    "md5" : "MD5:9b7334bb76c67e292229c17ab5d09562",
+    "createdAt" : "2022-09-30T00:58:10.07",
+    "cacheControl" : {
+      "maxAge" : 3600,
+      "mustRevalidate" : false,
+      "noStore" : false,
+      "noCache" : false
+    },
+    "expires" : "2022-09-30T01:58:10.070"
+  } ]
+}
